@@ -1,1 +1,3 @@
-# dev-finances
+# dev.finances$
+
+MARATONA DISCOVER - ROCKETSEAT

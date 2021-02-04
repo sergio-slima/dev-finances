@@ -75,9 +75,9 @@ const DOM = {
     },
 
     updateBalance() {
-        document.getElementById('incomeDisplay').innerHTML = 'Entradas'
-        document.getElementById('expenseDisplay').innerHTML = 'Saidas'
-        document.getElementById('totalDisplay').innerHTML = 'Total'
+        document.getElementById('incomeDisplay').innerHTML = Transaction.incomes()
+        document.getElementById('expenseDisplay').innerHTML = Transaction.expenses()
+        document.getElementById('totalDisplay').innerHTML = Transaction.total()
     }
 }
 

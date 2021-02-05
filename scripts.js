@@ -117,15 +117,17 @@ const DOM = {
 
 const Utils = {
     formatCurrency(value) {
-        const signal = Number(value) < 0 ? "-" : ""
+        // const signal = Number(value) < 0 ? "-" : ""
 
-        value = String(value).replace(/\D/g, "")
-        value = Number(value) / 100
-        value = value.toLocaleString("pt-BR", {
-            style: "currency",
-            currency: "BRL"
-        })
-        return signal + value
+        // value = String(value).replace(/\,?\.?/g, "")
+        // value = Number(value) / 100
+        // value = value.toLocaleString("pt-BR", {
+        //     style: "currency",
+        //     currency: "BRL"
+        // })
+        // return signal + value
+        value = value * 100
+        return Math.round(value)
     }
 }
 

@@ -263,10 +263,28 @@ input {
 
 /* ===== Footer ====== */
 footer {
-    text-align: center;
-    padding: 4rem 0 2rem;
+    text-align: center;    
+    padding: 2rem 0 2rem;
     color: var(--dark-blue);
     opacity: 0.6;
+    font-weight: bold;
+}
+
+hr {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;        
+    opacity: 0.4;
+}
+
+footer i {
+    font-size: xx-large;
+    padding: 0.5rem;
+}
+
+footer #dev {
+    margin-top: 2rem;
 }
 
 /* ===== Responsive ====== */

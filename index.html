@@ -12,7 +12,29 @@
 </head>
 <body>
     <header>        
-        <img src="./assets/logo.svg" alt="Logo Dev Finance">
+        <img src="./assets/logo.svg" alt="Logo Dev Finance">        
+        <label id="menu" for="check">
+            <span class="header-menu">
+                <span class="header-menu-line"></span>
+                <span class="header-menu-line"></span>
+                <span class="header-menu-line"></span>
+            </span>
+        </label>
+        <input type="checkbox" id="check">
+        <div class="barra">
+            <a href="#"><span class="link">Dark</span></a>
+            <span> / </span>
+            <a href="#"><span class="link">Light</span></a>
+        </div>
+        <div class="lista-item">
+            <input type="checkbox" class="trigger-input" id="faq-titulo-1">
+            <div class="trigger-wrapper">
+                <label for="faq-titulo-1">
+                    <h2 class="faq-titulo">Configurações</h2>
+                </label>
+                <p class="faq-conteudo">Todos os cursos possuem certificado de conclusão. Ao completar todas as aulas um certificado é gerado no seu nome. Certificado válido em todo o Brasil com base na lei do Curso Livre</p>
+            </div>
+        </div>
     </header>
     <main class="container">
         <section id="balance">
@@ -90,12 +112,14 @@
     <hr>
 
     <footer>        
-        <p>dev.finance$</p>
-        <p id="dev">Sergio Silva Lima</p>
-        <a href="https://www.linkedin.com/in/sergio-silva-lima-b99237140/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/sergio-slima"><i class="fab fa-github"></i></a>
-        <a href="https://www.instagram.com/sergio_silva_/"><i class="fab fa-instagram"></i></a>
-        <a href="https://www.facebook.com/sergio.silvalima/"><i class="fab fa-facebook"></i></a>        
+        <p>dev.finance$</p> 
+        <div>
+            <a href="https://www.linkedin.com/in/sergio-silva-lima-b99237140/" title="Linkedin Sergio" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/sergio-slima" title="GitHub Sergio" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.instagram.com/sergio_silva_/" title="Instagram Sergio" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com/sergio.silvalima/" title="Facebook Sergio" target="_blank"><i class="fab fa-facebook"></i></a>        
+            <p>Dev: Sergio Silva Lima</p>
+        </div>       
     </footer>
 
     <script src="./scripts.js"></script>

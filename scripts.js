@@ -1,3 +1,10 @@
+const $html = document.querySelector('html')
+const $checkbox = document.querySelector('#darkmode')
+
+$checkbox.addEventListener('change', function(){
+    $html.classList.toggle('dark-mode')
+})
+
 const Modal= {
     open(){
         // Abrir Modal

@@ -23,14 +23,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### ✨ Implementações
 
 - Modo Dark
-- Redes sociais no footer
+- Limpar transações
 - Menu oculto lateral
+- Redes sociais no footer
 
 ---
 
 #### :blush: Autor
 
-Desenvolvido por Sergio SLima 👋🏽 Entre em contato!
+Desenvolvido por:
+#####Sergio SLima 👋🏽
+Entre em contato!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/sergio-silva-lima-b99237140/)

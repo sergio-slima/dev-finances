@@ -64,6 +64,12 @@ const Transaction = {
         App.reload()
     },
 
+    removeall() {
+        Transaction.all.splice(transaction)       
+
+        App.reload()
+    },    
+
     incomes() {
         // variavel
         let income = 0;

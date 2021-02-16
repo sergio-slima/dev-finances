@@ -16,11 +16,11 @@
 .dark-mode:root {
     --table-back-title: #747474;
     --table-back-label: #fff;
-    --dark-header: #000;
+    --dark-header: rgb(8, 8, 8);
     --light-body: #333;
     --card-total: #122909;
     --card-label: #fff;
-    --white: #111;
+    --white: rgb(29, 29, 29);
 }
 
 * {
@@ -91,6 +91,15 @@ button:hover {
 .button.new {
     display: inline-block;
     margin-bottom: .8rem;
+}
+
+.button.del {
+    color: var(--red);
+    float: right;
+}
+
+.button.del:hover {
+    color: #f36868;
 }
 
 .button.cancel {
@@ -322,7 +331,8 @@ input {
 }
 
 .input-group small {
-    opacity: 0.4;
+    opacity: 0.5;
+    color: var(--card-label);
 }
 
 .input-group.actions {

@@ -271,7 +271,8 @@ table td {
 
 }
 
-td.description {
+td.description,
+td.date {
     color: var(--dark-blue);
 }
 

@@ -20,7 +20,7 @@
    3. 👨‍💻 [Autor](#autor)   
 <!--te-->
 
-#### 🛠 Tecnologias
+#### Tecnologias 🛠
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - 🔌 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 
 
-#### ✨ Implementações
+#### Implementações ✨
 
 - 🌗 Modo Dark
 - 🗑 Limpar transações
@@ -38,10 +38,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-#### Autor :blush:
+#### Autor 😎
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/48762187?v=4" width="100px;" alt="Sergio SLima"/>
+ <br />
+ <sub><b>Sergio Silva Lima</b></sub></a> <a href="https://app.rocketseat.com.br/me/sergio-silva-lima-1567192156" title="Rocketseat">🚀
+</a>
 
 Desenvolvido por:
-#####Sergio SLima 👋🏽
+Sergio SLima 👋🏽
 Entre em contato!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)

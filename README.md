@@ -20,7 +20,7 @@
 </h1>
 
 <div id='tecnologias'></div>
-## **Tecnologias** 🛠
+## Tecnologias 🛠
 
 As seguintes ferramentas foram usadas na construção do projeto:
 

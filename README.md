@@ -20,7 +20,7 @@
 </h1>
 
 ## **Tecnologias** 🛠
-
+<div id='tecnologias'></div>
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - 📝 [HTML](https://www.w3schools.com/html/)
@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## Implementações ✨
-
+<div id='implementacoes'></div>
 - 🌗 Modo Dark
 - 🗑 Limpar transações
 - 📌 Menu oculto lateral

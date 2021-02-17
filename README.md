@@ -13,12 +13,11 @@
   <img src="./assets/print.PNG" alt="Print Tela" height="500" width="800">
 </h1>
 
-## 🏁 Tópicos
-<!--ts-->
-   1. 💻 [Tecnologias](#tecnologias)
-   2. 🧩 [Implementações](#implementacao)
-   3. 👨‍💻 [Autor](#autor)   
-<!--te-->
+<p align="center">
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#implementacoes">Implementações</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
 ## Tecnologias 🛠
 

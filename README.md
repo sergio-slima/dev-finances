@@ -38,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## **Autor** 😎
-
+<div id='autor'></div>
 <a href="https://app.rocketseat.com.br/me/sergio-silva-lima-1567192156">
  <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/48762187?v=4" width="100px;" alt="Sergio SLima"/>
  <br />
